@@ -1,7 +1,7 @@
-# Mini Sistema de Controle de Atendimentos Médicos
+# Sistema de Controle de Atendimentos Médicos
 
 ## Introdução
-Este é um mini sistema desenvolvido como parte de um desafio técnico para uma vaga de estágio em desenvolvimento de software. O objetivo deste projeto é criar um sistema de controle de atendimentos médicos, onde médicos e secretários podem cadastrar, visualizar, editar e excluir atendimentos.
+Este é um sistema desenvolvido como parte de um desafio técnico para uma vaga de estágio em desenvolvimento de software. O objetivo deste projeto é criar um sistema de controle de atendimentos médicos, onde médicos e secretários podem cadastrar, visualizar, editar e excluir atendimentos.
 
 ## Funcionalidades
 O sistema possui as seguintes funcionalidades principais:
